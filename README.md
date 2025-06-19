@@ -61,7 +61,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 ### 2. Clone and Setup Project
 ```bash
-git clone https://github.com/alexhaya04/docling-api.git
+git clone https://github.com/alexhaya4/docling-api.git
 cd docling-api
 poetry install
 ```
